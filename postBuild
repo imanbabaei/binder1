@@ -1,2 +1,0 @@
-jupyter labextension install jupyter-vuetify
-jupyter labextension install @voila-dashboards/jupyterlab-preview
