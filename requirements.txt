@@ -1,4 +1,4 @@
-ipyvuetify
+ipyvuetify>=0.1.9
 ipywidgets
 gekko
 numpy
@@ -6,5 +6,5 @@ pandas
 plotly
 seeq
 scipy
-voila==0.3.0
-voila-vuetify
+voila>=0.1.8
+voila-vuetify>=0.0.1a6
