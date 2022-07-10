@@ -7,3 +7,4 @@ plotly
 seeq
 scipy
 voila==0.3.0
+voila-vuetify
