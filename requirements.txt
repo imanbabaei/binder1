@@ -1,0 +1,9 @@
+ipyvuetify
+ipywidgets
+gekko
+numpy
+pandas
+plotly
+seeq
+scipy
+voila==0.3.0
